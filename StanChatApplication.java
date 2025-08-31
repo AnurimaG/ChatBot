@@ -1,4 +1,4 @@
-package stanchat;
+package chat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,3 +9,4 @@ public class StanChatApplication {
         SpringApplication.run(StanChatApplication.class, args);
     }
 }
+
