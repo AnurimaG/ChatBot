@@ -1,4 +1,4 @@
-package stanchat.controller;
+package chat.controller;
 
 
 import stanchat.service.ChatService;
@@ -25,4 +25,5 @@ public class ChatController {
         String reply = chatService.chat(userId, message);
         return Map.of("reply", reply);
     }
+
 }
