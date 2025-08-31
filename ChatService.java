@@ -1,4 +1,4 @@
-package stanchat.service;
+package chat.service;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -138,4 +138,5 @@ public class ChatService {
             memoryService.addMemory(userId, "birthday is on " + m6.group(1).trim());
         }
     }
+
 }
