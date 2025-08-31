@@ -2,8 +2,6 @@
 
 An AI-powered personal assistant built with Java Spring Boot and the OpenAI API, capable of remembering user information across sessions.
 
-Developed as part of the STAN Internship Challenge.
-
 
 **Features**
 
