@@ -1,4 +1,4 @@
-package stanchat.service;
+package chat.service;
 
 import org.springframework.stereotype.Service;
 
@@ -51,3 +51,4 @@ public class MemoryService {
         }
     }
 }
+
