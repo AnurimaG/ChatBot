@@ -1,4 +1,4 @@
-package stanchat.util;
+package chat.util;
 
 
 import java.util.Set;
@@ -32,4 +32,5 @@ public class Facts {
         return false;
     }
 }
+
 
