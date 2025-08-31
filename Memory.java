@@ -1,4 +1,4 @@
-package stanchat.model;
+package chat.model;
 
 import java.time.LocalDateTime;
 
@@ -16,4 +16,5 @@ public class Memory {
     public String getKeyName() { return keyName; }
     public String getValue() { return value; }
     public LocalDateTime getTimestamp() { return timestamp; }
+
 }
